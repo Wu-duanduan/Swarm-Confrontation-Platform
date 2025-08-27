@@ -9,7 +9,7 @@ The code has the following requirements:
 
 We include a requirements.txt file as a reference, but note that such a file includes more libraries than the ones strictly needed to run our code.
 
-# Installation instructions:
+# How to run the code:
 To run the code, move to the Simulation_python/Train folder and executes the following files:
 1. IQL: python train_IQL.py
 2. PS_IQL: python train_PS_IQL.py
