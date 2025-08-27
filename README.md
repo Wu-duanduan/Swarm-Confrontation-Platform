@@ -6,6 +6,7 @@ In swarm confrontation, robots must swiftly formulate strategies in transient en
 The code has the following requirements:
 1. Simulation_python: Python 3.8 
 2. Simulation_java: Java and Python 3.8
+
 We include a requirements.txt file as a reference, but note that such a file includes more libraries than the ones strictly needed to run our code.
 
 # Installation instructions:
