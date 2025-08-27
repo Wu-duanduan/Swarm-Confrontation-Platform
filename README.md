@@ -9,4 +9,16 @@ The code has the following requirements:
 We include a requirements.txt file as a reference, but note that such a file includes more libraries than the ones strictly needed to run our code.
 
 # Installation instructions:
-To run the code, move to the Simulation_python/T folder and executes
+To run the code, move to the Simulation_python/Train folder and executes the following files:
+1. IQL: python train_IQL.py
+2. PS_IQL: python train_PS_IQL.py
+3. VDN: python train_VDN.py
+4. COMA: python train_COMA.py
+5. QMIX: python train_QMIX.py
+   
+After training, you can test the trained models by executing the following files:
+1. IQL: python test_IQL.py
+2. PS_IQL: python test_PS_IQL.py
+3. VDN: python test_VDN.py
+4. COMA: python test_COMA.py
+5. QMIX: python test_QMIX.py
